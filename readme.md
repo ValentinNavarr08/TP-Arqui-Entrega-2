@@ -112,7 +112,7 @@ Visto desde la base de datos
 <img src="Entrega2/diagrams/DER.png">
 ### Diagrama UML 
 Visto desde el punto de vista de Objetos
-<img src="Entrega2/diagrams/uml.png">
+<img src="Entrega2/diagrams/UML.png">
 
 ## Autores
 
